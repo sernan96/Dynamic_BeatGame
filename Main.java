@@ -9,4 +9,4 @@ public class Main {
 		new DynamicBeat();
 		
 	}//이미지를 그냥 불러오면 버퍼링 현상 심해서 더블버퍼링이란 프로그래밍기법 사용필요
-}
+}//DynamicBeat.java에 구현
